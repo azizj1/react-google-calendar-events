@@ -1,0 +1,189 @@
+
+{
+  "kind": "calendar#events",
+  "etag": "\"1447620887034000\"",
+  "summary": "TestPublicCalendar",
+  "description": "",
+  "updated": "2015-11-15T20:54:47.034Z",
+  "timeZone": "America/Chicago",
+  "accessRole": "reader",
+  "defaultReminders": [
+  ],
+  "nextSyncToken": "CJDx9oWok8kCEAAYAQ==",
+  "items": [
+    {
+
+
+      "kind": "calendar#event",
+      "etag": "\"2894973544570000\"",
+      "id": "e0a9nhcbom32u5lt07b2rq7iq0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ZTBhOW5oY2JvbTMydTVsdDA3YjJycTdpcTAgb2thODg0M3ZmMDNmNHRzaGpvbGN1OWJuaDRAZw",
+      "created": "2015-11-14T07:39:32.000Z",
+      "updated": "2015-11-14T07:39:32.285Z",
+      "summary": "Test",
+      "description": "blahh",
+      "location": "Home",
+      "creator": {
+        "email": "azizjaved0@gmail.com",
+        "displayName": "Aziz Javed"
+      },
+      "organizer": {
+        "email": "oka8843vf03f4tshjolcu9bnh4@group.calendar.google.com",
+        "displayName": "TestPublicCalendar",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2015-11-16T00:30:00-06:00"
+      },
+      "end": {
+        "dateTime": "2015-11-16T01:30:00-06:00"
+      },
+      "iCalUID": "e0a9nhcbom32u5lt07b2rq7iq0@google.com",
+      "sequence": 0
+    },
+    {
+
+
+      "kind": "calendar#event",
+      "etag": "\"2894973645788000\"",
+      "id": "lfjda1v3v7530aai5f1db8m6eo",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bGZqZGExdjN2NzUzMGFhaTVmMWRiOG02ZW8gb2thODg0M3ZmMDNmNHRzaGpvbGN1OWJuaDRAZw",
+      "created": "2015-11-14T07:40:22.000Z",
+      "updated": "2015-11-14T07:40:22.894Z",
+      "summary": "AnotherTest",
+      "creator": {
+        "email": "azizjaved0@gmail.com",
+        "displayName": "Aziz Javed"
+      },
+      "organizer": {
+        "email": "oka8843vf03f4tshjolcu9bnh4@group.calendar.google.com",
+        "displayName": "TestPublicCalendar",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2015-11-15T03:30:00-06:00"
+      },
+      "end": {
+        "dateTime": "2015-11-15T04:30:00-06:00"
+      },
+      "iCalUID": "lfjda1v3v7530aai5f1db8m6eo@google.com",
+      "sequence": 0
+    },
+    {
+
+
+      "kind": "calendar#event",
+      "etag": "\"2894976982634000\"",
+      "id": "i9ke7qj1bk77pd0m05t6ifmkis",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=aTlrZTdxajFiazc3cGQwbTA1dDZpZm1raXMgb2thODg0M3ZmMDNmNHRzaGpvbGN1OWJuaDRAZw",
+      "created": "2015-11-14T08:08:11.000Z",
+      "updated": "2015-11-14T08:08:11.317Z",
+      "summary": "Game show event!",
+      "creator": {
+        "email": "azizjaved0@gmail.com",
+        "displayName": "Aziz Javed"
+      },
+      "organizer": {
+        "email": "oka8843vf03f4tshjolcu9bnh4@group.calendar.google.com",
+        "displayName": "TestPublicCalendar",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2015-11-18T02:00:00-06:00"
+      },
+      "end": {
+        "dateTime": "2015-11-18T05:00:00-06:00"
+      },
+      "iCalUID": "i9ke7qj1bk77pd0m05t6ifmkis@google.com",
+      "sequence": 0,
+      "attachments": [
+        {
+          "fileUrl": "https://drive.google.com/file/d/0B-tMrXMNgr-hRm1fSWEyY0FtUnM/view?usp=drive_web",
+          "title": "2-time-lapse-photography.jpg",
+          "iconLink": "https://ssl.gstatic.com/docs/doclist/images/icon_10_generic_list.png",
+          "fileId": "0B-tMrXMNgr-hRm1fSWEyY0FtUnM"
+        }
+      ]
+    },
+    {
+
+
+      "kind": "calendar#event",
+      "etag": "\"2894978516108000\"",
+      "id": "pgco6iqquepgl90ht0jdu0derg",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=cGdjbzZpcXF1ZXBnbDkwaHQwamR1MGRlcmcgb2thODg0M3ZmMDNmNHRzaGpvbGN1OWJuaDRAZw",
+      "created": "2015-11-14T08:20:58.000Z",
+      "updated": "2015-11-14T08:20:58.054Z",
+      "summary": "Late night event test",
+      "location": "Masjid Al-Noor/ISM West, 16670 Pheasant Dr, Brookfield, WI 53045, United States",
+      "creator": {
+        "email": "azizjaved0@gmail.com",
+        "displayName": "Aziz Javed"
+      },
+      "organizer": {
+        "email": "oka8843vf03f4tshjolcu9bnh4@group.calendar.google.com",
+        "displayName": "TestPublicCalendar",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2015-11-20T02:00:00-06:00"
+      },
+      "end": {
+        "dateTime": "2015-11-20T14:00:00-06:00"
+      },
+      "iCalUID": "pgco6iqquepgl90ht0jdu0derg@google.com",
+      "sequence": 0,
+      "attachments": [
+        {
+          "fileUrl": "https://drive.google.com/file/d/0B-tMrXMNgr-hRm1fSWEyY0FtUnM/view?usp=drive_web",
+          "title": "2-time-lapse-photography.jpg",
+          "iconLink": "https://ssl.gstatic.com/docs/doclist/images/icon_10_generic_list.png",
+          "fileId": "0B-tMrXMNgr-hRm1fSWEyY0FtUnM"
+        }
+      ]
+    },
+    {
+
+
+      "kind": "calendar#event",
+      "etag": "\"2894981477270000\"",
+      "id": "a7gl6a0c4ducfa3va0gt1o0ipk",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=YTdnbDZhMGM0ZHVjZmEzdmEwZ3QxbzBpcGsgb2thODg0M3ZmMDNmNHRzaGpvbGN1OWJuaDRAZw",
+      "created": "2015-11-14T08:45:37.000Z",
+      "updated": "2015-11-14T08:45:38.635Z",
+      "summary": "LateTest",
+      "description": "fsafd",
+      "location": "6767 N Industrial Rd, Milwaukee, WI 53223, USA",
+      "creator": {
+        "email": "azizjaved0@gmail.com",
+        "displayName": "Aziz Javed"
+      },
+      "organizer": {
+        "email": "oka8843vf03f4tshjolcu9bnh4@group.calendar.google.com",
+        "displayName": "TestPublicCalendar",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2015-12-08T03:30:00-06:00"
+      },
+      "end": {
+        "dateTime": "2015-12-08T08:00:00-06:00"
+      },
+      "iCalUID": "a7gl6a0c4ducfa3va0gt1o0ipk@google.com",
+      "sequence": 0,
+      "attachments": [
+        {
+          "fileUrl": "https://drive.google.com/file/d/0B-tMrXMNgr-hUkxsRlc2OVNOakk/view?usp=drive_web",
+          "title": "IMG_0048.JPG",
+          "iconLink": "https://ssl.gstatic.com/docs/doclist/images/icon_10_generic_list.png",
+          "fileId": "0B-tMrXMNgr-hUkxsRlc2OVNOakk"
+        }
+      ]
+    }
+  ]
+}

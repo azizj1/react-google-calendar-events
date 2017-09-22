@@ -1,4 +1,4 @@
-#React Component to Display Google Calendar Events
+# React Component to Display Google Calendar Events
 Many organizations house their events in a public Google Calendar. This component will allow them to elegantly display those events, search and filter events. Check out [MMWC](http://mmwconline.org) and their [events' page](http://mmwconline.org/events/) for a demo:
 
 ![](/readme-pics/demo.gif)
@@ -9,13 +9,13 @@ Events can include images or YouTube videos. To include an image, upload an imag
 
 To include a YouTube video with the event, make the first line of the description a YouTube link. 
 
-##What's Included in Repo
+## What's Included in Repo
 * All components that constitute the Google Calendar Events timeline above
 * All components that constitute the events section at [MMWC homepage](http://mmwconline.org/)
 * Calendar service to retrieve the events
 * Model to represent a Google Calendar event
 * All necessary CSS styles
 
-##What's Not Included in Repo
+## What's Not Included in Repo
 * gulpfile.js or webpack.config.js - it's very specific to the website itself
 
